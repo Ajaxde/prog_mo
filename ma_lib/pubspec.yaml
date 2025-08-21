@@ -1,7 +1,7 @@
 name: ma_lib
 description: A starting point for Dart libraries or applications.
 version: 1.0.0
-repository: https://github.com/Ajaxde/prog_mo.git
+# repository: https://github.com/Ajaxde/prog_mo.git
 
 environment:
   sdk: ^3.9.0
